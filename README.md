@@ -5,7 +5,7 @@ Breaking Down the Numbers: Which Data Split Ratio Yields Superior Machine Learni
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://github.com/itsmeSamrat/Iris-Data-Spliting-Experiment/blob/main/cover%20image.png?raw=true" 
-        alt="Logo" width="500" height="350">
+        alt="Logo" width="600" height="300">
     </a>
 </div>
 
