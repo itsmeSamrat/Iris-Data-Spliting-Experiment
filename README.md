@@ -1,7 +1,3 @@
-Breaking Down the Numbers: Which Data Split Ratio Yields Superior Machine Learning Results?
-
-<!-- Logo Section  -->
-
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://github.com/itsmeSamrat/Iris-Data-Spliting-Experiment/blob/main/cover%20image.png?raw=true" 
