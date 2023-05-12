@@ -30,11 +30,11 @@ We have selected three models for our experiment:
 - Clone the repo into your local machine.
 
 ```bash
-    git clone https://github.com/itsmeSamrat/Iris-Data-Spliting-Experiment.git
+    git clone https://github.com/itsmeSamrat/Iris-Data-Splitting-Experiment.git
 ```
 
 - Install all the packages and libraries from requirement.txt file
-- Run the [notebook](https://github.com/itsmeSamrat/Iris-Data-Spliting-Experiment/blob/main/Splitting%20the%20Data%20to%2060-20-20%20ratio%20vs.%2080-10-10.ipynb), it should run without any problems.
+- Run the [notebook](https://github.com/itsmeSamrat/Iris-Data-Splitting-Experiment/blob/main/Splitting%20the%20Data%20to%2060-20-20%20ratio%20vs.%2080-10-10.ipynb), it should run without any problems.
 - Try testing using other splits like 70-15-15 and publish your result.
 - You can try using other different models and other dataset of you liking.
 - If you find this interesting. Support by staring the repo 🙂😁.
@@ -51,7 +51,7 @@ Thank you. ✌✌
 
 ## License
 
-This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Iris-Data-Spliting-Experiment/blob/main/license.txt) file for more details.
+This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Iris-Data-Splitting-Experiment/blob/main/license.txt) file for more details.
 
 ## Feedback
 
